@@ -3,21 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
+title: 'Jet Coaching Center'
+subtitle: 'Free coaching for Government Exams'
+description:'Free coaching for TNPSC all groups, TET'
 keywords:
-author: John Doe
+author: Sanjeevi Subramani
 language: 
   - en
-  - zh-cn
-  - es
 
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://yoursite.com
+url: https://jetcoachingcenter.netlify.com
 root: /
 permalink: :lang/:year/:month/:day/:title/
 permalink_defaults:

@@ -1,12 +1,14 @@
-# Hexo + Netlify CMS Starter
+# Jet coaching center site
 
 ## Intro
-This is an example site built with [Hexo](https://hexo.io/) and [Netlify CMS](https://github.com/netlify/netlify-cms), based on [Viosey's](https://github.com/viosey) [Hexo material theme](https://github.com/viosey/hexo-theme-material).
+This is an open website for tamilnadu government exams coaching [JetCoachingCenter](https://jetcoachingcenter.netlify.com)
 
-[Live demo](https://hexo-material-cms.netlify.com)
 
-## Deploy to Netlify
-Use the following deploy button to get your own copy of the repository up and running:
+
+## Deployed in Netlify
+This is an open source website anyone can use it for free. This site is created based on the following repository - [Hexo](https://github.com/lunaceee/hexo-material-netlify.git)
+
+You can deploy this to netlify using below link and customize it to your needs.
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/lunaceee/hexo-material-netlify&stack=cms)
 
