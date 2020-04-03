@@ -94,14 +94,3 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: material-flow
-
-# Deployment
-## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repo: https://github.com/SSanjeevi/jetcoachingcenter
-  branch: master
-
-
-admin:
-  deployCommand: './hexo-deploy.bat'
