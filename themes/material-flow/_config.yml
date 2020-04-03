@@ -34,13 +34,13 @@ menu:
     url: /
   - name: Courses
     slug: courses
-    url: /courses
+    url: /Courses
   - name: ContactUs
     slug: contactus
     url: /Contactus
   - name: About
     slug: about
-    url: /about
+    url: /About
 
 # widgets
 widgets:
