@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Jet Coaching Center</title>
+  
+  <subtitle>Free Coaching Center</subtitle>
+  <link href="/jetcoachingcenter/atom.xml" rel="self"/>
+  
+  <link href="https://jetcoachingcenter.netlify.com/"/>
+  <updated>2020-04-02T12:38:40.017Z</updated>
+  <id>https://jetcoachingcenter.netlify.com/</id>
+  
+  <author>
+    <name>Sanjeevi Subramani</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Welcome</title>
+    <link href="https://jetcoachingcenter.netlify.com/2020/04/02/hello-world/"/>
+    <id>https://jetcoachingcenter.netlify.com/2020/04/02/hello-world/</id>
+    <published>2020-04-02T12:36:14.000Z</published>
+    <updated>2020-04-02T12:38:40.017Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://jetcoachingcenter.netlify.com/">Jet Coaching</a>! This is our first post. Check <a href="https://jetcoachingcenter.netlify.com/">documentation</a> for more info. </p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><p>Please contribute!</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://jetcoachingcenter.netlify.com/&quot;&gt;Jet Coaching&lt;/a&gt;! This is our first post. Check &lt;a href=&quot;https://jetcoachingc
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
