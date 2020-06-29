@@ -15,7 +15,7 @@
     "ejs-lint": "^0.2.0",
     "eslint": "^3.14.0",
     "eslint-config-airbnb-base": "^11.0.1",
-    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-import": "^2.22.0",
     "hexo": "^4.0.0",
     "hexo-admin": "^2.3.0",
     "hexo-admin-ehc": "^3.0.0",
